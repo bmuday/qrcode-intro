@@ -1,0 +1,26 @@
+{
+  "name": "qrcode-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmuday/qrcode-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmuday/qrcode-intro/issues"
+  },
+  "homepage": "https://github.com/bmuday/qrcode-intro#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "qrcode": "^1.4.4"
+  }
+}
